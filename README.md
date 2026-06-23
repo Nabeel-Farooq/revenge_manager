@@ -33,7 +33,7 @@ Some of the features Revenge Manager provides are:
 ## 🔽 Download
 
 You can download the most recent version of Revenge Manager from
-[here](https://github.com/Nabeel-Farooq/revenge-manager/releases/latest).  
+[here](https://github.com/Nabeel-Farooq/revenge_manager/releases/tag/v1.3.0).  
 Learn how to use Revenge Manager by following the [documentation](/docs).
 
 ## 📚 Everything else
