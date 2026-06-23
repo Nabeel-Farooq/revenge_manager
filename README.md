@@ -13,14 +13,12 @@
 
 # 💊 Revenge Manager
 
-![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/revenge-mod/revenge-manager/release.yml)
-![Open Software License 3](https://img.shields.io/badge/License-OSL%20v3-yellow.svg)
 
 Application to use Revenge on Android.
 
 ## ❓ About
 
-Revenge Manager is an application that installs and updates [Revenge](https://github.com/revenge-mod/revenge-bundle),
+Revenge Manager is an application that installs and updates [Revenge](https://github.com/Nabeel-Farooq/revenge-bundle),
 a modification for Discord.
 
 ## 💪 Features
@@ -35,7 +33,7 @@ Some of the features Revenge Manager provides are:
 ## 🔽 Download
 
 You can download the most recent version of Revenge Manager from
-[here](https://github.com/revenge-mod/revenge-manager/releases/latest).  
+[here](https://github.com/Nabeel-Farooq/revenge-manager/releases/latest).  
 Learn how to use Revenge Manager by following the [documentation](/docs).
 
 ## 📚 Everything else
